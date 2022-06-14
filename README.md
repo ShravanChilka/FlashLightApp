@@ -1,5 +1,6 @@
 # FlashLightApp
-This is a sample Android project used to turn the Flash Light ON &amp; OFF
+This is a sample Android project used to turn the Flash Light ON & OFF
+
 Beautiful UI Design
 
 ![Screenshot_20220615-024157](https://user-images.githubusercontent.com/107514813/173702391-7cbea3f8-601f-417c-85d8-071b343c8914.png)
